@@ -1,0 +1,6 @@
+.venv
+.env
+__pychace__/
+**/__pychace__
+*.pyc
+temp
